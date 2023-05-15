@@ -1,1 +1,0 @@
-# Softwarearchitekturen für Robotik
